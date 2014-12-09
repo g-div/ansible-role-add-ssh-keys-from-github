@@ -26,6 +26,5 @@ BSD
 Authors Information
 ------------------
 
-George Miroshnykov <george.miroshnykov@gmail.com>
-
-Giuseppe Di Vincenzo
+- George Miroshnykov <george.miroshnykov@gmail.com>
+- g-div
