@@ -23,7 +23,8 @@ License
 
 BSD
 
-Author Information
+Authors Information
 ------------------
 
 George Miroshnykov <george.miroshnykov@gmail.com>
+Giuseppe Di Vincenzo
